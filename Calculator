@@ -1,7 +1,7 @@
 import tkinter as tk
 
 root = tk.Tk()
-root.title('AKHU')
+root.title('Calcultor')
 root.configure(bg='lightblue')
 
 e = tk.Entry(root, width=35, borderwidth=5, bg='lightgray')
